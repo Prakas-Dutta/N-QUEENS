@@ -148,6 +148,6 @@ main()
 	fixed[size];
 	reset();
 	findPath(0);
-	printf("Completed:)");
+	printf("Completed:)\nTotal %d number of combinations found.", number);
 	getch();
 }
